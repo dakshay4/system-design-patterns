@@ -1,0 +1,17 @@
+https://www.tryexponent.com/questions/949/system-design-timer
+https://www.tryexponent.com/questions/4090/system-design-deny-services-banned-ips
+https://www.tryexponent.com/questions/3257/design-a-distributed-file-system
+https://www.tryexponent.com/questions/2703/design-a-rate-limiter
+https://www.tryexponent.com/questions/3222/design-an-applicant-tracking-system-ats
+https://www.tryexponent.com/questions/1678/design-a-visual-landmark-recognition-system
+https://www.tryexponent.com/questions/1605/design-web-crawler
+https://www.tryexponent.com/questions/3252/design-a-dns-cache
+https://www.tryexponent.com/questions/804/improve-buy-and-sell-groups-in-facebook
+https://www.tryexponent.com/questions/3433/design-auto-complete
+https://www.tryexponent.com/questions/2199/how-would-you-design-chess-com
+https://www.tryexponent.com/questions/2728/design-a-solution-for-attending-large-events-concerts
+https://www.tryexponent.com/questions/169/optimize-uber-eats-basket-size
+https://www.tryexponent.com/questions/4077/truck-tracking-system
+https://www.tryexponent.com/questions/4239/design-custom-policy-lru-cache
+https://www.tryexponent.com/questions/1505/describe-an-especially-challenging-project
+https://www.tryexponent.com/questions/1916/design-a-smart-electric-meter-software-system-for-an-apartment-building-with-one-dashboard-for-tenants-to-show-hourly-weekly-monthly-yearly-readings-to-their-specific-units-and-another-dashboard-for-the-owner-with-similar-readings-but-only-by-floors-or-building-electricity-usage
